@@ -1,4 +1,4 @@
-//This program creates a simple battery-charging interface. This program will be sent to Blue Marble Communications. I(Lam Van) compiled it using GCC on a Linux Ubuntu computer with an Intel CPU.
+//This program creates a simple battery-charging interface. I wrote it on Oct 29, 2022. I compiled it using GCC on a Linux Ubuntu computer with an Intel CPU.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -55,5 +55,4 @@ void charging(int n, int *battery_level) {
 	}
 }
 
-//Thanks for reading my code, Blue Marble :))))
 
