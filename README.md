@@ -1,1 +1,1 @@
-# simple_battery_charing_interface_in_C
+# simple_battery_charging_interface_in_C
